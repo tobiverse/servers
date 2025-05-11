@@ -1,0 +1,16 @@
+"t27432": {
+    "name": "Test Item",
+    "price": {
+        "ta": 14,
+        "ter": 56
+    },
+    "image": "test1.png"
+},
+"t62737": {
+    "name": "Testerie",
+    "price": {
+        "ta": 15,
+        "ter": 27
+    },
+    "image": "test2.png"
+}
